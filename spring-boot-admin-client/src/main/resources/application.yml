@@ -1,0 +1,9 @@
+server:
+  port: 3000
+spring:
+  boot:
+    admin:
+      url: http://localhost:8080
+management:
+  security:
+    enabled: false
